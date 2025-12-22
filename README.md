@@ -22,4 +22,4 @@ Não é necessário servidor ou dependências adicionais.
 ## Autor
 
 **Tiago Jarruge Saraiva**  
-November de 2024
+Novembro de 2024
